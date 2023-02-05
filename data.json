@@ -1,0 +1,147 @@
+{
+    "name": "Seif Eddine Slimene",
+    "landing": {
+        "title": "Hi, I'm Seif Eddine Slimene",
+        "subtitles": [
+            "Full-stack developer 🌐",
+            "Cross-platform developer 📱💻",
+            "Beginner in devops ♾️"
+        ],
+        "professionalDetails": [
+            {
+                "alt": "seifeslimene",
+                "icon": "linkedin",
+                "link": "https://www.linkedin.com/in/seifeslimene/"
+            },
+            {
+                "alt": "seif-eddine-slimene",
+                "icon": "stackoverflow",
+                "link": "https://stackoverflow.com/users/2804752/seif-eddine-slimene"
+            },
+            {
+                "alt": "seifeslimene",
+                "icon": "github",
+                "link": "https://github.com/seifeslimene"
+            },
+            {
+                "alt": "Email",
+                "icon": "gmail",
+                "link": "mailto:s.slimene19@gmail.com"
+            }
+        ]
+    },
+    "skills": {
+        "Languages known": [
+            "JavaScript",
+            "HTML5",
+            "CSS3",
+            "TypeScript",
+            "PHP",
+            "Ruby"
+        ],
+        "Frontend": [
+            "React",
+            "Redux",
+            "Next.js",
+            "Material-UI",
+            "Tailwind CSS"
+        ],
+        "Backend, Database and Cloud": [
+            "Node.js",
+            "rubyonrails",
+            "Express",
+            "NestJS",
+            "MongoDB",
+            "MySQL",
+            "PostgreSQL",
+            "Heroku",
+            "Gatsby",
+            "Netlify",
+            "Vercel",
+            "Firebase"
+        ],
+        "Mobile": [
+            {
+                "alt": "React_Native",
+                "icon": "react",
+                "backgroundColor": "#424242"
+            },
+            "Expo"
+        ]
+    },
+    "projects": {
+        "baseURI": "https://api.github.com/repos/seifeslimene/",
+        "repositories": [
+            "lighthouse-demo",
+            "numberguesser",
+            "lighthouse-server",
+            "villa",
+            "scrum_dash",
+            "Basic-Calculator"
+        ]
+    },
+    "experience": {
+        "Work Experience": [
+            {
+                "organization": " La Soie S.A.R.L.",
+                "role": "Full Stack Developer",
+                "type": "SIVP",
+                "startDate": "2017-09-11",
+                "endDate": "2019-10-31",
+                "city": "Bodheur",
+                "state": "Monastir",
+                "country": "Tunisia",
+                "url": "https://www.linkedin.com/company/la-soie-s-a-r-l/",
+                "thumbnail": "/lasoiesarl.jpg"
+            },
+            {
+                "organization": "Apprentus Ltd.",
+                "role": "Front End Developer",
+                "type": "CDI",
+                "startDate": "2021-01-19",
+                "endDate": "Currently Working Here",
+                "city": "Tunis",
+                "state": "Tunis",
+                "country": "Tunisia",
+                "url": "https://www.linkedin.com/company/apprentus/mycompany/",
+                "thumbnail": "/apprentus.jpg"
+            }
+        ]
+    },
+    "about": {
+        "description": "As a highly motivated computer professional with the enthusiasm to accept new challenges, the opportunity to work as a Fullstack JavaScript Developer interests me considerably.",
+        "picture": "/profile.jpg",
+        "social": [
+            {
+                "alt": "seifeslimene",
+                "icon": "instagram",
+                "link": "https://www.instagram.com/seifeslimene/"
+            },
+            {
+                "alt": "seifeslimene",
+                "icon": "twitter",
+                "link": "https://twitter.com/seifeslimene/"
+            }
+        ]
+    },
+    "theme": {
+        "light": {
+            "palette": {
+                "type": "light",
+                "background": {
+                    "paper": "#fff",
+                    "default": "#fafafa"
+                }
+            }
+        },
+        "dark": {
+            "palette": {
+                "type": "dark",
+                "background": {
+                    "paper": "#303030",
+                    "default": "#212121"
+                }
+            }
+        }
+    }
+}
